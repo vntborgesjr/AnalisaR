@@ -1,5 +1,9 @@
 ---
-output: html_document
+layout: post
+output: 
+  html_document:
+    theme: darkly
+    highlight: breezedark
 ---
 
 ```{r setup, include=FALSE}
