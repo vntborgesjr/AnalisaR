@@ -1,7 +1,7 @@
 ---
 output: 
   html_document:
-    theme: darkly
+    theme: jekyll-theme-slate
     highlight: breezedark
 ---
 
