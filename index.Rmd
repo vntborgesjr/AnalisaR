@@ -1,5 +1,4 @@
 ---
-layout: post
 output: 
   html_document:
     theme: darkly
