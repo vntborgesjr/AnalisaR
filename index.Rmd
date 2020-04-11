@@ -1,5 +1,4 @@
 ---
-title: "AnalisaR"
 output: html_document
 ---
 
@@ -7,13 +6,13 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-# __AnalisaR__
+# **AnalisaR**
 
-__AnalisaR__ é um espaço em construção permanente para divulgação da liguagem R como ferramenta indispensável para: (1) porfessores que trabalham com ensino de matemática e estatística básica e avançada e; (2) para pesquisadores que trabalham com questões que envolvem a coleta e análise de dados, sejam eles provenientes de estudos realizados em campo ou em laboratório. O público alvo específico deste espaço são os professores e cientístas da área de ecologia, mas os conhecimentos aqui disseminados são importantes e aplicáveis para os cientistas provenientes das mais diversas áreas de conhecimento.
+**AnalisaR** é um espaço em construção permanente para divulgação da liguagem R como ferramenta indispensável para: (1) porfessores que trabalham com ensino de matemática e estatística básica e avançada e; (2) para pesquisadores que trabalham com questões que envolvem a coleta e análise de dados, sejam eles provenientes de estudos realizados em campo ou em laboratório. O público alvo específico deste espaço são os professores e cientístas da área de ecologia, mas os conhecimentos aqui disseminados são importantes e aplicáveis para os cientistas provenientes das mais diversas áreas de conhecimento.
 
-No __AnalisaR__ serão postados frequentemente textos sobre temas relacionados a linguagem R e sua aplicação nas diversas etapas envolvidas no desenvolvimento de uma pesquisa ecológica. As postagens irão abranger aspectos que vão da elaboração do delineamento amostral, análise dos dados, obtenção e representação gráfica dos resultados até ferramentas para a apresentação textual dos resultados. Tudo isso utilizando uma única ferramenta, a linguagem R de programação.
+No **AnalisaR** serão postados frequentemente textos sobre temas relacionados a linguagem R e sua aplicação nas diversas etapas envolvidas no desenvolvimento de uma pesquisa ecológica. As postagens irão abranger aspectos que vão da elaboração do delineamento amostral, análise dos dados, obtenção e representação gráfica dos resultados até ferramentas para a apresentação textual dos resultados. Tudo isso utilizando uma única ferramenta, a linguagem R de programação.
 
-Este é apenas o ponto pé inicial do espaço _AnalizaR_! 
+Este é apenas o ponta pé inicial do espaço **AnalisaR**! 
 
 Em breve, serão postadas as respostas para o que, provavelmente, são as perguntas que em suas mentes no momento:
 
