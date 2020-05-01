@@ -1,17 +1,40 @@
 ---
+categories:
+  - AnalisaR
+  - Ciência de dados
+  - Data science
+  - Numerical ecology
+  - Ecologia numérica
+tags:
+  - R
+  - programação
+  - curiosidades R
+  - R programming
+  - Programação em R
+  - Ecology
+  - Numerical ecology
+  - Ecologia
+  - Ecologia numérica
 output: 
   html_document:
-    theme: jekyll-theme-slate
+    theme: darkly
     highlight: breezedark
+    toc: true
+    toc_depth: 3
+    toc_float: true
+    colapse: true
+    smooth_scroll: false
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-# **AnalisaR**
+# **AnalisaR**{.tabset .tabset-fade .tabset-pills}
 
-**AnalisaR** é um espaço em construção permanente para divulgação da liguagem R como ferramenta indispensável para: (1) porfessores que trabalham com ensino de matemática e estatística básica e avançada e; (2) para pesquisadores que trabalham com questões que envolvem a coleta e análise de dados, sejam eles provenientes de estudos realizados em campo ou em laboratório. O público alvo específico deste espaço são os professores e cientístas da área de ecologia, mas os conhecimentos aqui disseminados são importantes e aplicáveis para os cientistas provenientes das mais diversas áreas de conhecimento.
+### [O que é o AnalisaR?](){.tabset}
+
+**AnalisaR** é um espaço em construção permanente para divulgação do R como ferramenta indispensável para: (1) porfessores que trabalham com ensino de matemática e estatística básica e avançada e; (2) para pesquisadores que trabalham com questões que envolvem a coleta e análise de dados, sejam eles provenientes de estudos realizados em campo ou em laboratório. O público alvo específico deste espaço são os professores e cientístas da área de ecologia, mas os conhecimentos aqui disseminados são importantes e aplicáveis para os cientistas provenientes das mais diversas áreas de conhecimento.
 
 No **AnalisaR** serão postados frequentemente textos sobre temas relacionados a linguagem R e sua aplicação nas diversas etapas envolvidas no desenvolvimento de uma pesquisa ecológica. As postagens irão abranger aspectos que vão da elaboração do delineamento amostral, análise dos dados, obtenção e representação gráfica dos resultados até ferramentas para a apresentação textual dos resultados. Tudo isso utilizando uma única ferramenta, a linguagem R de programação.
 
@@ -19,8 +42,10 @@ Este é apenas o ponta pé inicial do espaço **AnalisaR**!
 
 Em breve, serão postadas as respostas para o que, provavelmente, são as perguntas que em suas mentes no momento:
 
-### [Mas o que é a linguagem R?]() 
+### [Mas o que o R?](Mas-o-que-é-a-linguagem-R.html){.tabset}
 
-### [Qual é a vantagem do R sobre os demais pacotes de análise de dados?]()
+### [Qual é a vantagem do R sobre os demais pacotes de análise de dados?](){.tabset}
 
-### [Sobre o autor]()
+### [Sobre o autor](){.tabset}
+
+## Next Steps {#nextsteps .emphasized}
