@@ -1,0 +1,48 @@
+---
+categories:
+  - Histórias do R
+  - AnalisaR
+  - Ciência de dados
+  - Data science
+  - Numerical ecology
+  - Ecologia numérica
+tags:
+  - R
+  - programação
+  - curiosidades R
+  - R programming
+  - Programação em R
+  - Ecology
+  - Numerical ecology
+  - Ecologia
+  - Ecologia numérica
+output:
+  html_document:
+    theme: darkly
+    highlight: breezedark
+    toc: true
+    toc_depth: 3
+    toc_float: true
+    colapse: true
+    smooth_scroll: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# **AnalisaR**{.tabset .tabset-fade .tabset-pills}
+
+### [Mas o que é o R?](){.tabset}
+
+O sistema R para computação estatística é uma ambiente para análise de dados e elaboração de gráficos. As origens do R encontram-se na linguagem S desenvolvida por John Chambers e colaboradores nos laboratórios Bell ainda no início da década de 1960. Já nos anos 1980 a então MathSoft (atualmente Insightfull Coorporation) comprou os direitos da linguagem S e lançou comercialmente software S-PLUS, um pacote estatístico e gráfico. Nos anos 1990 dois estatísticos neozelandeses, Ross Ihaka e Robert Gentleman, reescreveram a linguagem S do zero a partir de um projeto de pesquisa influenciados pela ideia de um software livre e aberto para qualquer usuário, dando origem a linguagem R.
+  
+A base de distribuição do R e de diversas de suas extensões está disponível sob os termos da Free Software Foundation’s GNU General Public License. Essa licença implica em duas importantes consequências aos usuários do R. Os códigos completos de programação  devem ser disponibilizados, logo os usuários avançados podem investigar os detalhes de implementação de um método, realizar mudanças e distribuir as modificações aos colegas. Como consequência, o sistema R é disponível para todos, ou seja é gratuito. A base de distribuição do R é mantida por um grupo de estatísticos chamado The R Development Core Team. 
+
+Por que um ecólogo, ou qualquer outro cientísta deveria se preocupar em investir parte de seu tempo para aprender a utilizar o R e sua linguagem de programação? Primeiramente, porque o R, o RStudio e as demais extensões, diferentemente da maioria dos softwares de análises estatísticas, são gratuitos. Além disso, aprender programação é o primeiro passo para libertar-se das limitações analíticas que muitos dos softwares existentes oferecem, além de ser uma excelente maneira de se aprender sobre estatística e teoria ecológica de uma forma simples e intuitiva. Com o tempo e a prática você perceberá que o uso do R e da programação irá incrementar consideravelmente a sua capacidade de formular questões, a sua habilidade em escolher as análises adequadas e a sua confiança nos resultados obtidos a partir destas análises.
+
+### [O que é o AnalisaR?](index.html){.tabset}
+
+### [Qual é a vantagem do R sobre os demais pacotes de análise de dados?](){.tabset}
+
+### [Sobre o autor](){.tabset}
