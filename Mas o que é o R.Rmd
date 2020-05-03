@@ -1,0 +1,64 @@
+---
+categories:
+  - Histórias do R
+  - AnalisaR
+  - Ciência de dados
+  - Data science
+  - Numerical ecology
+  - Ecologia numérica
+tags:
+  - R
+  - programação
+  - curiosidades R
+  - R programming
+  - Programação em R
+  - Ecology
+  - Numerical ecology
+  - Ecologia
+  - Ecologia numérica
+output:
+  html_document:
+    theme: darkly
+    highlight: breezedark
+    toc: true
+    toc_depth: 3
+    toc_float: true
+    colapse: true
+    smooth_scroll: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# [**AnalisaR**](index.html){.tabset .tabset-fade .tabset-pills}
+
+### Mas o que é o R?{.tabset}
+
+O R é um sistema integrado de softwares muito útil para computação estatística, o que inclui a manipulação e análise de dados, além da elaboração de gráficos. Entre outras coisas, o R possui:
+
+- uma capacidade muito eficiente de armazenamento e manipulação de dados;
+- um conjunto de operadores para realização de cálculos sobre objetos;
+- uma coleção de ferramentas para análise de dados;
+- instalações gráficas para análise e exibição de dados instantânea; e
+
+- uma linguagem de programação simples e bem desenvolvida que inclui funções condicionais, alças de repetição (*loops*), funções recursivas que podem ser definidas pelo usuário e instalações de entrada e saída.
+
+O termo “ambiente” é utilizado para caracterizar o R como um sistema flexível e coerente, diferente dos softwares tradicionais que apresentam, em geral, ferramentas muito específicas e inflexíveis. Assim, o R se tornou um importante veículo para o desenvolvimento de métodos de análise de dados. Seu desenvolvimento vem ocorrendo numa velocidade incrivelmente rápida e suas aplicações são constantemente expandidas pelo desenvolvimento e implementação de novos pacotes.
+
+As origens do R encontram-se na linguagem *S* desenvolvida por Rick Becker, John Chambers e Allan Wilks nos laboratórios Bell, ainda no início da década de 1960, e na linguagem *Scheme*. Já nos anos 1980 a então MathSoft (atualmente Insightfull Coorporation) comprou os direitos da linguagem S e lançou comercialmente software S-PLUS, um pacote estatístico e gráfico. Nos anos 1990 dois estatísticos neozelandeses, Ross Ihaka e Robert Gentleman, com interesse comum em estatística computacional e a necessidade de um software apropriado para seus laboratórios de ensino na Universidade de Auckland reescreveram a linguagem *S* do zero. Assim nasceu a linguagem R de programação, com uma sintaxe herdada da linguagem *S* e regra de escopo herdada da linguagem *Scheme*.
+
+  ![](C:\Users\clari\Desktop\Vitor\AnalisaR\Blog GitHub\AnalisaR\R_creators.jpg.jpg)
+
+Ross Ihaka (esquerda) e Robert Gentleman (direita), criadores da linguagem R e fundadores do The R Development Core Team. Extraído de https://codeandhack.com/creators-of-programming-languages/
+
+A base de distribuição do R e de diversas de suas extensões está disponível sob os termos da Free Software Foundation’s GNU General Public License. Essa licença implica em duas importantes consequências aos usuários do R. Os códigos completos de programação devem ser disponibilizados, logo os usuários avançados podem investigar os detalhes de implementação de um método, realizar mudanças e distribuir as modificações aos colegas. Como consequência, o sistema R é disponível para todos, ou seja, é gratuito. A base de distribuição do R é mantida por um grupo de estatísticos chamado [The R Development Core Team](https://www.r-project.org/). 
+
+O R pode ser utilizado em diferentes sistemas operacionais, como o [Windowns](https://cloud.r-project.org/bin/windows/), [MacOS](https://cloud.r-project.org/bin/macosx/) e [Linux](https://cloud.r-project.org/bin/linux/). Acesse o link referente ao seu sistema operacional para obter o arquivo de instalação e começar a explorar as potencialidades oferecidas pelo R!
+
+
+### [O que é o AnalisaR?](index.html){.tabset}
+
+### [Qual são as vantagens do R?](){.tabset}
+
+### [Sobre o autor](){.tabset}
