@@ -112,3 +112,12 @@ tm_basemap(server = "CartoDB.PositronNoLabels") +
 ```
 
 ### [Índice](index.html){.tabset}
+
+### [Mas o que o R?](Mas-o-que-é-o-R.html){.tabset}
+
+### [Qual são as vantagens do R?](){.tabset}
+
+### [Portifolio](Portifolio.html){.tabset}
+
+### [Sobre o autor](){.tabset}
+
