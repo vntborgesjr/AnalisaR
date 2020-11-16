@@ -46,6 +46,8 @@ Em breve, serão postadas as respostas para o que, provavelmente, são as pergun
 
 ### [Qual são as vantagens do R?](){.tabset}
 
+### [Portifolio](Portifolio.html){.tabset}
+
 ### [Sobre o autor](){.tabset}
 
 ## Next Steps {#nextsteps .emphasized}
