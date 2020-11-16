@@ -12,5 +12,14 @@ output:
 
 # **Portifolio**{.tabset .tabset-fade .tabset-pills}
 
-### [Mapa de votos](mapa-de-votos-legislativo.html){.tabset}
+### [Mapa de votos](Mapa-de-votos-legislativo.html){.tabset}
+
+### [Índice](index.html){.tabset}
+
+### [Mas o que o R?](Mas-o-que-é-o-R.html){.tabset}
+
+### [Qual são as vantagens do R?](){.tabset}
+
+### [Sobre o autor](){.tabset}
+
 
