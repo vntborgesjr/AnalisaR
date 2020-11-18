@@ -34,9 +34,9 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ### Vitor Borges Jr{.tabset}
 
-<p><img style="float: left;margin:5px 20px 5px 1px" src="/home/cla/Documentos/Vitor/AnalisaR/imagens/Vitor-Borges-Jr.jpeg"></p>
+<p><img style="float: left;margin:5px 20px 5px 1px" src="/home/cla/Documentos/Vitor/AnalisaR/imagens/Vitor-Borges-Jr1.jpeg"></p>
 <!--
-<img style="float: right;margin:5px 20px 5px 1px" src="/home/cla/Documentos/Vitor/AnalisaR/imagens/Vitor-Borges-Jr.jpeg">
+<img style="float: left;margin:5px 20px 5px 1px" src="/home/cla/Documentos/Vitor/AnalisaR/imagens/Vitor-Borges-Jr1.jpeg">
 -->
 
 
