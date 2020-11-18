@@ -1,4 +1,20 @@
 ---
+categories:
+  - AnalisaR
+  - Ciência de dados
+  - Data science
+  - Numerical ecology
+  - Ecologia numérica
+tags:
+  - R
+  - programação
+  - curiosidades R
+  - R programming
+  - Programação em R
+  - Ecology
+  - Numerical ecology
+  - Ecologia
+  - Ecologia numérica
 output: 
   html_document:
     theme: darkly
@@ -12,14 +28,12 @@ output:
 
 # **Portifolio**{.tabset .tabset-fade .tabset-pills}
 
-### [Mapa de votos](Mapa-de-votos-legislativo.html){.tabset}
+### [Mapa de votos do legislativo](Mapa-de-votos-legislativo.html){.tabset}
 
-### [Índice](index.html){.tabset}
+### [AnalisaR](index.html){.tabset}
 
-### [Mas o que o R?](Mas-o-que-é-o-R.html){.tabset}
+### [Blog AnalisaR](Blog-AnalisaR.html){.tabset}
 
-### [Qual são as vantagens do R?](){.tabset}
+### [Equipe AnalisaR](Equipe-AnalisaR.html){.tabset}
 
-### [Sobre o autor](){.tabset}
-
-
+### [Contato](Contato.html){.tabset}
