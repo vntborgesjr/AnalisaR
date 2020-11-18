@@ -1,4 +1,20 @@
 ---
+categories:
+  - AnalisaR
+  - Ciência de dados
+  - Data science
+  - Numerical ecology
+  - Ecologia numérica
+tags:
+  - R
+  - programação
+  - curiosidades R
+  - R programming
+  - Programação em R
+  - Ecology
+  - Numerical ecology
+  - Ecologia
+  - Ecologia numérica
 output: 
   html_document:
     theme: darkly
@@ -22,9 +38,9 @@ library(tmap) # pacote para geração de mapas
 
 # Carregar dados
 # cham_2015 <- cham_votes_year('2015') # comando omitido para trabalhar com os dados gravados
-cham_2015 <- read.csv("cham_2015.csv")
-regiao <- readOGR(dsn = "regioes_2010", layer = "regioes_2010")
-estados <- readOGR(dsn = "estados_2010", layer = "estados_2010")
+cham_2015 <- read.csv("datasets/cham_2015.csv")
+regiao <- readOGR(dsn = "datasets/regioes_2010", layer = "regioes_2010")
+estados <- readOGR(dsn = "datasets/estados_2010", layer = "estados_2010")
 
 # gerar conjunto de dados com as variaveis de interesse para cada ano
 # 2015
@@ -70,8 +86,9 @@ nao <- total
 
 ```
 
-# **Mapa de votos do Legislativo**{.tabset .tabset-fade .tabset-pills}
-## Medida Provisória 660-2014-1 (MPV-660-2014-1)
+# **Mapa de votos do Legislativo**{.tabset .tabset-fade.tabset-pills}
+
+### Medida Provisória 660-2014-1 (MPV-660-2014-1){.tabset}
 
 ```{r, eval = TRUE, echo = FALSE, warning = FALSE, message = FALSE}
 tmap_mode("view")
@@ -111,13 +128,12 @@ tm_basemap(server = "CartoDB.PositronNoLabels") +
                     set.zoom.limits = c(4, 10))
 ```
 
-### [Índice](index.html){.tabset}
+### [AnalisaR](index.html){.tabset}
 
-### [Mas o que o R?](Mas-o-que-é-o-R.html){.tabset}
-
-### [Qual são as vantagens do R?](){.tabset}
+### [Blog AnalisaR](Blog-AnalisR.html){.tabset}
 
 ### [Portifolio](Portifolio.html){.tabset}
 
-### [Sobre o autor](){.tabset}
+### [Equipe AnalisaR](Equipe-AnalisaR.html){.tabset}
 
+### [Contato](Contato.html){.tabset}
