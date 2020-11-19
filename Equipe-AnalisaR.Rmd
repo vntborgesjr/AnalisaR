@@ -32,7 +32,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 # **Equipe AnalisaR**{.tabset .tabset-fade .tabset-pills}
 
-### Vitor Borges Jr{.tabset}
+### **Vitor Borges Jr**{.tabset}
 
 <p><img style="float: right;margin:5px 20px 5px 1px" src="/home/cla/Documentos/Vitor/AnalisaR/imagens/Vitor-Borges-Jr1.png"></p>
 <!--
@@ -45,6 +45,7 @@ Sou biólogo de formação, especializado em ecologia de populações e comunida
 [LinkedIn](https://www.linkedin.com/in/vitor-borges-1bb19aa4/)
 
 [Lattes](http://lattes.cnpq.br/2313576480433850)
+
 
 #### [AnalisaR](index.html){.tabset}
 
