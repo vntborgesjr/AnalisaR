@@ -170,11 +170,11 @@ mapa_estados_final <- mapa_estados_final +
 mapa_estados_final
 ```
 
-### **Mapa de votação por poartido e por estado - Medida Provisória 660-2014-1** {.tabset}
+### **Mapa de votação por partido e por estado - Medida Provisória 660-2014-1** {.tabset}
 
 #### **Objetivo do mapa**{.tabset}
 
-Este mapa foi elaborado para vizualização do posicionamento de cada estado em relação a votação de em primeiro turno de uma medida prvisória (MPV-660-2014-1). Protanto, o mapa reflete o posicionamento dos deputados federais de cada estado em relação a medida provisória. 
+Este mapa foi elaborado para vizualização do posicionamento de cada partido em relação a votação de em primeiro turno de uma medida prvisória (MPV-660-2014-1), por estado. Protanto, o mapa reflete o posicionamento dos deputados federais e seus partido em relação a medida provisória em cada unidade federativa. 
 
 #### **Descrição do mapa**{.tabset}
 
