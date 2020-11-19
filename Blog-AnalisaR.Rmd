@@ -36,14 +36,14 @@ O Blog **AnalisaR** é um espaço em construção permanente para divulgação d
 
 No **AnalisaR** serão postados frequentemente textos sobre temas relacionados a linguagem R e sua aplicação nas diversas etapas envolvidas no desenvolvimento de uma pesquisa. As postagens irão abranger aspectos que vão da elaboração do delineamento amostral, análise dos dados, obtenção e representação gráfica dos resultados até ferramentas para a apresentação textual dos resultados. Tudo isso utilizando a linguagem R de programação.
 
-### [AnalisaR](index.html){.tabset}
-
 ### [Mas o que o R?](Mas-o-que-é-o-R.html){.tabset}
 
 ### [Qual são as vantagens do R?](){.tabset}
 
-### [Portifolio](Portifolio.html){.tabset}
+#### [AnalisaR](index.html){.tabset}
 
-### [Equipe AnalisaR](Equipe-AnalisaR.html){.tabset}
+#### [Portifolio](Portifolio.html){.tabset}
 
-### [Contato](Contato.html){.tabset}
+#### [Equipe AnalisaR](Equipe-AnalisaR.html){.tabset}
+
+#### [Contato](Contato.html){.tabset}
