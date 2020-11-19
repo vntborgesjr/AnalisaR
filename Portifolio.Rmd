@@ -28,12 +28,12 @@ output:
 
 # **Portifolio**{.tabset .tabset-fade .tabset-pills}
 
-### [Mapa de votos do legislativo](Mapa-de-votos-legislativo.html){.tabset}
+### [Mapa de votação do legislativo](Mapa-de-votos-legislativo.html){.tabset}
 
-### [AnalisaR](index.html){.tabset}
+#### [AnalisaR](index.html){.tabset}
 
-### [Blog AnalisaR](Blog-AnalisaR.html){.tabset}
+#### [Blog AnalisaR](Blog-AnalisaR.html){.tabset}
 
-### [Equipe AnalisaR](Equipe-AnalisaR.html){.tabset}
+#### [Equipe AnalisaR](Equipe-AnalisaR.html){.tabset}
 
-### [Contato](Contato.html){.tabset}
+#### [Contato](Contato.html){.tabset}
