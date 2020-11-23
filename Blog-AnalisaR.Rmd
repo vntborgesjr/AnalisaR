@@ -40,6 +40,8 @@ No **AnalisaR** serão postados frequentemente textos sobre temas relacionados a
 
 ### [Qual são as vantagens do R?](){.tabset}
 
+### [Como construir um mapa no R](){.tabset}
+
 #### [AnalisaR](index.html){.tabset}
 
 #### [Portifolio](Portifolio.html){.tabset}
