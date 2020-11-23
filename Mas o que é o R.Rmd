@@ -63,6 +63,8 @@ O R pode ser utilizado em diferentes sistemas operacionais, como o [Windowns](ht
 
 ### [Qual são as vantagens do R?](){.tabset}
 
+### [Como construir um mapa no R](){.tabset}
+
 #### [AnalisaR](index.html){.tabset}
 
 #### [Portifolio](Portifolio.html){.tabset}
