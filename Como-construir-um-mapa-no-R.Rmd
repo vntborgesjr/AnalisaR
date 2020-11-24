@@ -1,0 +1,108 @@
+categories:
+  - AnalisaR
+  - Ciência de dados
+  - Data science
+  - Numerical ecology
+  - Ecologia numérica
+tags:
+  - R
+  - programação
+  - curiosidades R
+  - R programming
+  - Programação em R
+  - Ecology
+  - Numerical ecology
+  - Ecologia
+  - Ecologia numérica
+output: 
+  html_document:
+    theme: darkly
+    highlight: breezedark
+    toc: true
+    toc_depth: 3
+    toc_float: true
+    colapse: true
+    smooth_scroll: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# **Blog AnalisaR**{.tabset .tabset-fade .tabset-pills}
+
+### Como construir um mapa no R{.tabset}
+
+A melhor forma de contextualizar geograficamente uma informação é através de um mapa. Em que região um estudo foi realizado? O estado ou município do estudo se localiza no interior, ou próximo ao litoral? Próximo a áreas urbanas, ou na zona rural? Onde exatamente as observações foram realizadas? Um mapa bem construído tem a capacidade de transmitir todas essas infomações e muitas outras em uma única imagem. Por isso, nesse post vamos traçar um caminho para você construir seu primeiro mapa, bem basico, no R utlizando os pacotes `ggmap`, `ggplot2` e `tmap`. A partir desse trilha você será capaz de construir um mapa básico utilizando seus próprios dados a partir de três pacotes do R.
+
+Um bom mapa...
+
+### `ggmap`{.tabset}
+
+O pacote `ggmap` funciona de forma semelhante ao `ggplot2`, ou seja, a paritr da adição de diferentes camadas de informação. Assim, a primeira etapa da construção de um mapa utilizando o `ggmap` é criar a sua camada que servirá como base para a adição das informações que você desejar incluir. Para criar a camada base do mapa faremos uso da função `get_map()`. A função `get_map()` é um *wrapper* que constroi a camada base do mapa a partir de uma consulta nos servidores do *Google Maps*, *Open StreetMap*, *Stamen Maps* ou *Naver Map*. Por essa razão, é necessário fazer um registro no site da *Google services*. Faça seu registro no site https://cloud.google.com/maps-platform/ e veja como fazer o registro da sua chave API digitando `?register_google` no console do R.  
+
+Para criar a camada base do mapa vamos utilizar os cinco primeiros argumentos da função função `get_map(location = , zoom = , scale = , maptype = , source = )`. Assim, informaremos a função:
+
+- `location = ` um par de coordenadas geográficas ou os quatro limites da caixa do mapa para que a função busque-o em uma base;
+- `zoom =` uma valor inteiro entre 3 e 21 que determina o zoom do mapa;
+- `scale = ` um dos valores 1, 2, ou 4 que detremina o número de pixels;
+- `maptype = ` o tema do mapa; e
+- `source = ` o servidor fonte para busca do mapa base.
+
+Agora, vamos construir a camada base para o nosso mapa. A título de exemplo, utilizaremos duas fontes (`source = "google`, `source = "stamen"`) e dois tipos diferentes de mapas (`maptype = "satellite"` e `maptype = "terrain"`) para compor as bases dos nossos mapas. 
+
+```{r, echo = TRUE, eval = FALSE}
+# Carregar pacote
+library(ggmap)
+
+# Determinar valor das variáveis que alimentam os argumentos
+ponto_referencia <- c(lon = -42.78, lat = -22.47)
+zoom <-  12
+resolucao <- 1
+tipo_de_mapa1 <- "satellite"
+fonte1 <- "google"
+tipo_de_mapa2 <- "terrain"
+fonte2 <- "stamen"
+
+# Gerar o mapa 1
+mapa1 <- get_map(location = ponto_referencia, 
+                      zoom = zoom, 
+                      scale = resolucao,
+                      source = fonte1, 
+                      maptype = tipo_de_mapa1)
+ggmap(mapa1)
+
+# Gerar o mapa 2
+mapa2 <- get_map(location = ponto_referencia, 
+                      zoom = zoom, 
+                      scale = resolucao,
+                      source = fonte2, 
+                      maptype = tipo_de_mapa2)
+ggmap(mapa2)
+
+```
+
+A próxima etapa é adicionar aos mapas os pontos que representam, por exemplo, locais onde algum tipo de coleta de dados foi realizada. Para isso, iremos adiciona-los as camadas base utilizando a função `geom_point()`.
+
+```{r, eval = TRUE, echo = TRUE}
+# Carregar dados. Você pode copiar os dados da tabela, ou baixa-los em  
+pontos <- read.csv("datasets/xycoords_lat_long.csv", 
+                   header = TRUE, row.names = 1)
+pontos
+str(pontos)
+# Adicionar os pontos a camada base dos dados
+ggmap(mapa1) +
+  geom_point(data = pontos, aes(x = as.double(x), y = as.double(y)))
+
+```
+### [Blog AnalisaR](Blog-AnalisaR.html){.tabset}
+
+### [Qual são as vantagens do R?](){.tabset}
+
+#### [AnalisaR](index.html){.tabset}
+
+#### [Portifolio](Portifolio.html){.tabset}
+
+#### [Equipe AnalisaR](Equipe-AnalisaR.html){.tabset}
+
+#### [Contato](Contato.html){.tabset}
