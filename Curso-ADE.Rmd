@@ -103,7 +103,7 @@ Princípios de estatística em ecologia
 
 Estatística sem matemática
 
-### [Blog AnalisaR](Blog-AnalisaR.html)
+### [Blog AnalisaR](index.html)
 
 ### [Cursos Analisar](Cursos.html)
 
