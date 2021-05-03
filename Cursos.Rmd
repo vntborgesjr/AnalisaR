@@ -1,0 +1,25 @@
+---
+title: 'Cursos'
+output: 
+  html_document:
+    theme: cosmo
+    highlight: monochrome
+    df_print: kable
+    css: styles.css
+---
+
+# **Cursos**
+
+## **Introdução ao R para Ecólogos - Programação e Reprodutibilidade na Ciência**
+
+## **Ecologia Teórica - Desvendando a Natureza através da Matemática**
+
+## **Análise de Dados em Ecologias - Descrevendo e desvendando a incerteza da Natureza**
+
+### [Blog AnalisaR](Blog-AnalisaR.html)
+
+### [Cursos Analisar](Cursos.html)
+
+### [Equipe AnalisaR](https://vntborgesjr.github.io/vntborgesjr/)
+
+### [Contato](Contato.html)
