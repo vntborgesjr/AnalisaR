@@ -1,0 +1,112 @@
+---
+title: 'Análise de dados em Ecologia'
+output: 
+  html_document:
+    theme: cosmo
+    highlight: monochrome
+    df_print: kable
+    css: styles.css
+---
+
+# **Cursos**
+
+## **Análise de Dados em Ecologia - Descrevendo e desvendando a incerteza da Natureza**{.tabset .tabset-pills}
+
+### **Sumário**
+
+o objetivo do curso é estimular o desenvolvimento de uma
+intuição a respeito dos procedimentos amostrais e estatísticos a partir dos erros
+comumente cometidos pelos próprios estudantes. Ainda, pretende-se enfatizar a
+necessidade de revisão independente dos projetos em etapa de elaboração e o valor da
+critica construtiva na ciência. Como avaliação, ao final do curso os estudantes
+apresentarão seus projetos, objetivos, delineamento amostral métodos de analise e
+resultados esperados. Os estudantes serão avaliados pela sua participação enquanto
+avaliadores dos projetos dos colegas, pela quantidade e qualidade de intervenções e
+questionamentos construtivos.
+
+**Carga horária:** 80h
+
+**Período:** 10 manhãs e 10 tardes
+
+### **Ementa** 
+
+ciência como cultura; jargões científicos; importância da definição
+da questão; delineamento amostral limita as questões; critica construtiva na ciência;
+filosofia da ciência; pseudorepetição espacial, temporal, filogenética e técnica;
+conceitos de populações; vareáveis aleatórias; tipos de distribuição; parâmetros;
+estatísticas descritivas; conceito de desvios para descrever variabilidade; pratica de
+amostragem; o que é uma estatística; hipótese nula; distribuição de resultados
+esperados quando a hipótese nula é verdadeira; regiões de rejeição; valores críticos;
+regiões de rejeição; tipos de erro; estatísticas; distribuições nulas; valores críticos;
+probabilidade; testes de uma e duas caudas; aproximações paramétricas e testes de
+randomizações; graus de liberdade; tipos de erro; procedimento de Bonferroni;ANOVA de um fator; partição de variância; tabelas de ANOVA; variâncias
+compostas; médias quadradas; razões-F em ANOVA; comparações múltiplas; teste de
+Tukey; verossimilhança máxima; modelos lineares generalizados; tipo de relação
+assumida; uso dos resíduos na partição única da variância; razões-F para modelos
+mistos; seleção de modelos; estatística bayesiana; introdução a técnicas multivariadas;
+efeitos diretos e indiretos; análise de caminhos; gestão e disponibilização de dados e
+metadados.
+
+### **Cronograma**
+
+**Aula 1:**
+
+**Aula 2:**
+
+**Aula 3:**
+
+**Aula 4:**
+
+**Aula 5:**
+
+**Aula 6:**
+
+**Aula 7:**
+
+**Aula 8:**
+
+**Aula 9:**
+
+**Aula 10:**
+
+**Aula 11:**
+
+**Aula 12:**
+
+**Aula 13:**
+
+**Aula 14:**
+
+**Aula 15:**
+
+**Aula 16:**
+
+**Aula 17:**
+
+**Aula 18:**
+
+**Aula 19:**
+
+**Aula 20:**
+
+### **Material**
+
+Aqui deixamos as orientações sobre como instalar o R e o RStudio, quais pacotes devem ser instalados previamente e disponibilizamos os arquivos necessários para o curso.
+
+### **Referências**
+
+Análise de dados para Ecólogos
+
+How to be a quantitative ecologist
+
+Princípios de estatística em ecologia
+
+Estatística sem matemática
+
+### [Blog AnalisaR](Blog-AnalisaR.html)
+
+### [Cursos Analisar](Cursos.html)
+
+### [Equipe AnalisaR](https://vntborgesjr.github.io/vntborgesjr/)
+
+### [Contato](Contato.html)
