@@ -20,7 +20,7 @@ output:
 
 ### **Referências**
 
-### [Blog AnalisaR](Blog-AnalisaR.html)
+### [Blog AnalisaR](index.html)
 
 ### [Cursos Analisar](Cursos.html)
 
