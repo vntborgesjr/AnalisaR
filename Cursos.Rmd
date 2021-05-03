@@ -8,7 +8,7 @@ output:
     css: styles.css
 ---
 
-# **Cursos**
+# **Cursos AnalisaR**
 
 ## **Introdução ao R para Ecólogos - Programação e Reprodutibilidade na Ciência**
 
