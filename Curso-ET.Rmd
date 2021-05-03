@@ -1,0 +1,29 @@
+---
+title: 'Ecologia Teórica'
+output: 
+  html_document:
+    theme: cosmo
+    highlight: monochrome
+    df_print: kable
+    css: styles.css
+---
+
+# **Cursos**
+
+## **Ecologia Teórica - Desvendando a Natureza através da Matemática**{.tabset .tabset-pills} 
+
+### **Sumário**
+
+### **Ementa**
+
+### **Material**
+
+### **Referências**
+
+### [Blog AnalisaR](Blog-AnalisaR.html)
+
+### [Cursos Analisar](Cursos.html)
+
+### [Equipe AnalisaR](https://vntborgesjr.github.io/vntborgesjr/)
+
+### [Contato](Contato.html)
