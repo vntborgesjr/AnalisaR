@@ -1,4 +1,11 @@
 ---
+title: "Mas o que é o R?"
+output: 
+  html_document:
+    theme: cosmo
+    highlight: monochrome
+    df_print: kable
+    css: styles.css
 categories:
   - Histórias do R
   - AnalisaR
@@ -16,24 +23,16 @@ tags:
   - Numerical ecology
   - Ecologia
   - Ecologia numérica
-output:
-  html_document:
-    theme: darkly
-    highlight: breezedark
-    toc: true
-    toc_depth: 3
-    toc_float: true
-    colapse: true
-    smooth_scroll: false
+
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-# **Blog AnalisaR**{.tabset .tabset-fade .tabset-pills}
+# **Blog AnalisaR**
 
-### Mas o que é o R?{.tabset}
+### **Mas o que é o R?**
 
 O R é um sistema integrado de softwares muito útil para computação estatística, o que inclui a manipulação e análise de dados, além da elaboração de gráficos. Entre outras coisas, o R possui:
 
@@ -59,16 +58,12 @@ A base de distribuição do R e de diversas de suas extensões está disponível
 
 O R pode ser utilizado em diferentes sistemas operacionais, como o [Windowns](https://cloud.r-project.org/bin/windows/), [MacOS](https://cloud.r-project.org/bin/macosx/) e [Linux](https://cloud.r-project.org/bin/linux/). Acesse o link referente ao seu sistema operacional para obter o arquivo de instalação e começar a explorar as potencialidades oferecidas pelo R!
 
-### [Blog AnalisaR](Blog-AnalisaR.html){.tabset}
+### [Blog AnalisaR](Blog-AnalisaR.html)
 
-### [Qual são as vantagens do R?](){.tabset}
+### [Por que devo utilizar o R?]()
 
-### [Como construir um mapa no R](){.tabset}
+### [Cursos](Cursos.html)
 
-#### [AnalisaR](index.html){.tabset}
+#### [Equipe AnalisaR](https://vntborgesjr.github.io/vntborgesjr/)
 
-#### [Portifolio](Portifolio.html){.tabset}
-
-#### [Equipe AnalisaR](Equipe-AnalisaR.html){.tabset}
-
-#### [Contato](Contato.html){.tabset}
+#### [Contato](Contato.html)
