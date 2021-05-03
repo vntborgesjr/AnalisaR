@@ -1,0 +1,37 @@
+---
+title: "index2"
+output: 
+  html_document:
+    theme: darkly
+    highlight: breezedark
+    toc: true
+    toc_depth: 3
+    toc_float: true
+    colapse: true
+    smooth_scroll: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# **AnalisaR**{.tabset .tabset-fade .tabset-pills}
+
+**AnalisaR** é uma consultoria especializada em ciência de dados. Nossa missão é transformar dados em informação para orientar sua tomada de decisão. Atuamos em todas as áreas de negócio e pesquisa.
+
+### **Serviços de dados**{.tabset}
+
+- Análise de Dados & Visualização
+
+- Análises Espaciais & Mapas Interativos
+
+- Códigos Customizados
+
+
+##### [Blog AnalisaR](Blog-AnalisaR.html){.tabset}
+
+##### [Cursos AnalisaR](Cursos.html)
+
+##### [Equipe AnalisaR](Equipe-AnalisaR.html){.tabset}
+
+##### [Contato](Contato.html){.tabset}
