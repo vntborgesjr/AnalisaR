@@ -1,4 +1,11 @@
 ---
+title: "Blog Analisar"
+output: 
+  html_document:
+    theme: cosmo
+    highlight: monochrome
+    df_print: kable
+    css: styles.css
 categories:
   - AnalisaR
   - Ciência de dados
@@ -15,38 +22,19 @@ tags:
   - Numerical ecology
   - Ecologia
   - Ecologia numérica
-output: 
-  html_document:
-    theme: darkly
-    highlight: breezedark
-    toc: true
-    toc_depth: 3
-    toc_float: true
-    colapse: true
-    smooth_scroll: false
 ---
+# **Blog AnalisaR**{.tabset .tabset-fade .tabset-pills}
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
+O Blog **AnalisaR** é um espaço em construção permanente que traz textos para o aprendizado e o uso da matemática e da estatística para no estudo de fenômenos naturais, em especial os ecológicos. Como ferramenta para aprendizado e utilização da matemática e da estatística será utilizado a linguagem R de programação. Dessa forma, o Blog **AnalisaR** também traz posts sobre como programar em R e como utilizar essa habilidade em seu favor para o aprendizado e aplicação da matemática e da estatística. A programação ferramenta indispensável para (1) professores que trabalham com ensino de matemática e estatística básica e avançada; (2) para pesquisadores que trabalham com questões que envolvem a coleta e análise de dados, sejam eles provenientes de estudos realizados em campo ou em laboratório; e (3) para todos que se interessam por ciência de dados. O público alvo deste espaço são professores e cientistas de qualquer área de conhecimento, embora a ênfase seja dada à ecologia, além de todos os apaixonados por programação e análise de dados.
 
-# **AnalisaR**{.tabset .tabset-fade .tabset-pills}
+No **AnalisaR** serão postados frequentemente textos sobre temas relacionados a linguagem R e sua aplicação nas diversas etapas envolvidas no desenvolvimento de uma pesquisa. As postagens irão abranger aspectos que vão da elaboração do delineamento amostral, análise dos dados, obtenção e representação gráfica dos resultados até ferramentas para a apresentação textual dos resultados. Tudo isso utilizando a linguagem R de programação.
 
-**AnalisaR** é uma consultoria especializada em ciência de dados. Nossa missão é transformar dados em informação para orientar sua tomada de decisão. Atuamos em todas as áreas de negócio e pesquisa.
+### [Mas o que o R?](Mas-o-que-é-o-R.html)
 
-### **Serviços de dados**{.tabset}
+### [Por que devo utilizar o R?]()
 
-- Análise de Dados & Visualização
+### [Cursos Analisar](Cursos.html)
 
-- Análises Espaciais & Mapas Interativos
+### [Equipe AnalisaR](https://vntborgesjr.github.io/vntborgesjr/)
 
-- Códigos Customizados
-
-
-##### [Blog AnalisaR](Blog-AnalisaR.html){.tabset}
-
-##### [Portifolio](Portifolio.html){.tabset}
-
-##### [Equipe AnalisaR](Equipe-AnalisaR.html){.tabset}
-
-##### [Contato](Contato.html){.tabset}
+### [Contato](Contato.html)
