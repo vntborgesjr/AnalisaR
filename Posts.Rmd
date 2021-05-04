@@ -1,0 +1,41 @@
+---
+title: "Postagens AnalisaR"
+output: 
+  html_document:
+    theme: cosmo
+    highlight: monochrome
+    df_print: kable
+    css: styles.css
+categories:
+  - AnalisaR
+  - Ciência de dados
+  - Data science
+  - Numerical ecology
+  - Ecologia numérica
+tags:
+  - R
+  - programação
+  - curiosidades R
+  - R programming
+  - Programação em R
+  - Ecology
+  - Numerical ecology
+  - Ecologia
+  - Ecologia numérica
+---
+
+# [**Blog AnalisaR**](index.html)
+
+# [**Postagens AnalisaR**](Posts.html)
+
+## [**O que é o R?**](Mas-o-que-é-o-R.html)
+
+## [**Por que devo utilizar o R?**]()
+
+### [**Consultoria AnalisaR**](Consultoria.html)
+
+### [Cursos AnalisaR](Cursos.html)
+
+### [Equipe AnalisaR](https://vntborgesjr.github.io/vntborgesjr/)
+
+### [Contato](Contato.html)
