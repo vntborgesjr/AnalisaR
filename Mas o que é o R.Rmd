@@ -1,5 +1,5 @@
 ---
-title: "Mas o que é o R?"
+title: "O que é o R?"
 output: 
   html_document:
     theme: cosmo
@@ -32,7 +32,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 # [**Blog AnalisaR**](index.html)
 
-### **Mas o que é o R?**
+### **O que é o R?**
 
 O R é um sistema integrado de softwares muito útil para computação estatística, o que inclui a manipulação e análise de dados, além da elaboração de gráficos. Entre outras coisas, o R possui:
 
@@ -60,7 +60,9 @@ O R pode ser utilizado em diferentes sistemas operacionais, como o [Windowns](ht
 
 ### [Blog AnalisaR](index.html)
 
-### [Por que devo utilizar o R?]()
+### [Postagens AnalisaR](Posts.html)
+
+### [**Consultoria AnalisaR**](Consultoria.html)
 
 ### [Cursos AnalisaR](Cursos.html)
 
