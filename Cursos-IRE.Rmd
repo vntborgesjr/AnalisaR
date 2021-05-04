@@ -23,10 +23,11 @@ output:
 
 ### **Referências**
 
-### [Blog AnalisaR](index.html)
 
-### [Cursos Analisar](Cursos.html)
+## [Blog AnalisaR](index.html){.tabset}
 
-### [Equipe AnalisaR](https://vntborgesjr.github.io/vntborgesjr/)
+## [Cursos Analisar](Cursos.html){.tabset}
 
-### [Contato](Contato.html)
+## [Equipe AnalisaR](https://vntborgesjr.github.io/vntborgesjr/)
+
+## [Contato](Contato.html)
