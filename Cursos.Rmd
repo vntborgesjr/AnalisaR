@@ -10,11 +10,11 @@ output:
 
 # **Cursos AnalisaR**
 
-## **Introdução ao R para Ecólogos - Programação e Reprodutibilidade na Ciência**
+## [**Introdução ao R para Ecólogos - Programação e Reprodutibilidade na Ciência**](Cursos-IRE.html)
 
-## **Ecologia Teórica - Desvendando a Natureza através da Matemática**
+## [**Ecologia Teórica - Desvendando a Natureza através da Matemática**](Curso-ET.html)
 
-## **Análise de Dados em Ecologias - Descrevendo e desvendando a incerteza da Natureza**
+## [**Análise de Dados em Ecologias - Descrevendo e desvendando a incerteza da Natureza**](Curso-ADE.html)
 
 ### [Blog AnalisaR](index.html)
 
