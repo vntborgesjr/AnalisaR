@@ -22,6 +22,10 @@ output:
 
 ## [Blog AnalisaR](index.html){.tabset}
 
+## [Postagens Analisar](Posts.html)
+
+## [**Consultoria AnalisaR**](Consultoria.html)
+
 ## [Cursos Analisar](Cursos.html){.tabset}
 
 ## [Equipe AnalisaR](https://vntborgesjr.github.io/vntborgesjr/)
