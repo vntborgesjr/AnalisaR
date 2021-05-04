@@ -18,6 +18,10 @@ output:
 
 ### [Blog AnalisaR](index.html)
 
+### [Postagens AnalisaR](Posts.html)
+
+### [**Consultoria AnalisaR**](Consultoria.html)
+
 ### [Equipe AnalisaR](https://vntborgesjr.github.io/vntborgesjr/)
 
 ### [Contato](Contato.html)
