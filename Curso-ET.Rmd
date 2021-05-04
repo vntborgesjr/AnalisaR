@@ -8,9 +8,9 @@ output:
     css: styles.css
 ---
 
-# **Cursos**
+# [**Cursos AnalisaR**](Cursos.html)
 
-## **Ecologia Teórica - Desvendando a Natureza através da Matemática**{.tabset .tabset-pills} 
+## **Ecologia Teórica - Decifrando a Natureza através da Matemática**{.tabset .tabset-pills} 
 
 ### **Sumário**
 
